@@ -15,4 +15,4 @@ This is personal website and we can make your basic profile like portfolio .
 3)copyt the full path of index.html file then paste on browser and hit enter .
 
 
-4)This website is workinging.
+4)This website is working.
