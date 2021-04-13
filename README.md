@@ -1,7 +1,9 @@
-# learnwithtricktechnique1.github.io
+# Leanrners Adda
 
+## About
 
-               LEARNING PLATFORM WEBSITE
+An attempt to create a website where anyonce can share study materials and anyone can utilize those materials.It will also provide best you tube videos link for a particular topic or a particular subject for each stream.It will also help juniors to clear their doubts by seniors.
+
                
 This is personal website and we can make your basic profile like portfolio .
 
